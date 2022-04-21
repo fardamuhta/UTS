@@ -27,7 +27,7 @@
             echo date("d F Y H:i:s");
             ?></h3>
             <h4>
-                Erwanto 191011401061
+                Farda Muhtadillah 191011401067
             </h4>
             <table border="1">
             <thead>
